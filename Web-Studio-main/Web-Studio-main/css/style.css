@@ -1,0 +1,705 @@
+/*body*/
+body, html{
+    background: #19191B;
+    width: 1440px;
+    height: 4433px;
+    top: -2217px;
+    left: -720px;
+    gap: 0px;
+    opacity: 0px;
+    max-width:100%;
+    overflow-x:hidden ;
+}
+
+/*logo img*/
+.logo-img{
+    width: 40px;
+    height: 40px;
+    top: 42px;
+    left: 120px;
+    gap: 0px;
+    opacity: 0px;
+    angle: 0 deg;
+    position: absolute;
+}
+h1{
+    width: 84px;
+    height: 39px;
+    top: 22px;
+    left: 188px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: left;
+    color: #FFFFFF;
+    position: absolute;
+&:hover{
+    color: #513bb1;
+}
+}
+nav{
+    position: absolute;
+    width: Hug (401px)px;
+    height: Hug (25px)px;
+    top: 50px;
+    left: 932px;
+    gap: 40px;
+    opacity: 0px;
+    overflow: hidden;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    list-style: none;
+    color: white;
+    overflow: hidden;
+   
+    position: relative;
+  
+    &:hover{
+        color: #513bb1;
+        cursor: pointer;
+    }
+    }
+    button{
+        border: 1px solid #FFFFFF;
+        background: transparent;
+        width: 157px;
+        height: 44px;
+        top: 40px;
+        left: 1293px;
+        gap: 0px;
+        opacity: 0px;
+        position: absolute;        
+        font-family: Nunito Sans;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.82px;
+        letter-spacing: -0.5002105832099915px;
+        text-align: center;
+        color: white;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    h2{
+        width: 582px;
+        height: 252px;
+        top: 230px;
+        left: 120px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Graphik;
+        font-size: 80px;
+        font-weight: 700;
+        line-height: 84px;
+        text-align: left;
+        color: white;
+        position: absolute;
+    }
+    p{
+        width: 536px;
+        height: 117px;
+        top: 536px;
+        left: 123px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Nunito Sans;
+        font-size: 21px;
+        font-weight: 400;
+        line-height: 39px;
+        letter-spacing: -0.6565263867378235px;
+        text-align: left;
+        color: white;
+        position: absolute;
+    }
+    .our-services-btn{
+        width: 204px;
+        height: 58px;
+        top: 673px;
+        left: 123px;
+        gap: 8px;
+        border-radius: 4px 0px 0px 0px;
+        opacity: 0px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Nunito Sans;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 27.28px;
+        text-align: center;
+        color: white;
+        background: #5454D4;
+        display: block;
+    justify-content: flex-end;
+    justify-items: flex-end;
+    }
+    img{
+        width: 95px;
+        height:28px;
+        top: 231px;
+        left: 673px;
+        position: absolute;
+    }
+    .circle{
+        width: 51px;
+        height: 80px;
+        top: 184px;
+        left: 1269px;
+        position: absolute;
+    }
+    .play{
+        width: 104.66px;
+        height: 120.07px;
+        top: 666px;
+        left: 618.4px;
+        gap: 0px;
+        opacity: 0px;
+        position: absolute;
+    }
+    .main-img{
+            width: 655.29px;
+    height: 712.88px;
+    top: 107px;
+    left: 850px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    justify-items: flex-end;
+    color: #19191B;
+    overflow: visible;
+    }
+    .add{
+        width: 50px;
+        height: 50px;
+        top: 916px;
+        left: 1283px;
+        position: absolute;
+        background: #19191B;
+    }
+    .main-title-2{
+        width: 588px;
+        height: 140px;
+        top: 971px;
+        left: 120px;
+
+        font-family: Graphik;
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 70px;
+        text-align: left;
+        color: white;
+            }
+            .main-article{
+            width: 588px;
+            height: 78px;
+            top: 991px;
+            left: 732px;
+
+            font-family: Nunito Sans;
+            font-size: 21px;
+            font-weight: 400;
+            line-height: 39px;
+            letter-spacing: -0.6565263867378235px;
+            text-align: left;
+            color: #FFFFFFB2;
+            border-radius: 10px;
+            opacity: 0.8;
+
+            }
+            .con{
+                width: 1200px;
+                height: 670px;
+                top: 1161px;
+                left: 120px;
+                gap: 0px;
+                opacity: 0px;
+
+            }
+            .play{
+                width: 124px;
+                height: 124px;
+                top: 694px;
+                left: 358px;
+                gap: 0px;
+                opacity: 0px;
+                cursor: pointer;
+            }
+            .main-title-3{
+                width: 695px;
+                height: 140px;
+                top: 1981px;
+                left: 373px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Graphik;
+                font-size: 60px;
+                font-weight: 700;
+                line-height: 70px;
+                text-align: center;
+                color: white;
+            }
+            .polygon{
+                width: 104.66px;
+                height: 120.07px;
+                top: 1948px;
+                left: 184px;
+                gap: 0px;
+                opacity: 0px;
+
+            }
+            .add-2{
+                width: 42px;
+                height: 42px;
+                top: 2084.03px;
+                left: 1260.13px;
+                padding: 7px;
+                gap: 0px;
+                opacity: 0px;
+                angle: 31.42 deg;
+
+            }
+            .developing{
+                width: 69px;
+                height: 69px;
+                top: 2219px;
+                left: 278px;
+                gap: 0px;
+                opacity: 0px;
+
+            }
+            .contanier-develop{
+                width: 199px;
+                height: 38px;
+                top: 2308px;
+                left: 213px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 28px;
+                font-weight: 600;
+                line-height: 38.19px;
+                letter-spacing: -0.7503158450126648px;
+                text-align: center;
+                color: #FFFFFF;
+
+            }
+            .article-title{
+                width: 299px;
+                height: 56px;
+                top: 2366px;
+                left: 163px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 28px;
+                letter-spacing: -0.5002105832099915px;
+                text-align: center;
+                color: #FFFFFFB2;
+
+            }
+            .design{
+                width: 69px;
+                height: 69px;
+                top: 2219px;
+                left: 686px;
+                gap: 0px;
+                opacity: 0px;
+
+            }
+            .contanier-design{
+                width: 199px;
+                height: 38px;
+                top: 2308px;
+                left: 621px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 28px;
+                font-weight: 600;
+                line-height: 38.19px;
+                letter-spacing: -0.7503158450126648px;
+                text-align: center;
+                color: white;
+            }
+            .article-title-design{
+                width: 299px;
+                height: 56px;
+                top: 2366px;
+                left: 571px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 28px;
+                letter-spacing: -0.5002105832099915px;
+                text-align: center;
+                color: white;
+            }
+            .graphik-design{
+                width: 69px;
+                    height: 69px;
+                    top: 2219px;
+                    left: 1094px;
+                    gap: 0px;
+                    opacity: 0px;
+
+            }
+            .contanier-graphik-design{
+                width: 211px;
+                height: 38px;
+                top: 2108px;
+                left: 1023px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 28px;
+                font-weight: 600;
+                line-height: 38.19px;
+                letter-spacing: -0.7503158450126648px;
+                text-align: center;
+                color:white;
+            }
+            .article-title-graphik-design{
+                width: 299px;
+                height: 56px;
+                top: 2366px;
+                left: 979px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 28px;
+                letter-spacing: -0.5002105832099915px;
+                text-align: center;
+
+            }
+            .motion-design{
+                width: 69px;
+                height: 69px;
+                top: 2543px;
+                left: 278px;
+                gap: 0px;
+                opacity: 0px;
+
+            }
+            .contanier-motion-design{
+                width: 196px;
+height: 38px;
+top: 2272px;
+left: 1034px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito Sans;
+font-size: 28px;
+font-weight: 600;
+line-height: 38.19px;
+text-align: center;
+
+color: white;
+            }
+            .contanier-graphik-design{
+                width: 196px;
+                height: 38px;
+                top: 2632px;
+                left: 214px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 28px;
+                font-weight: 600;
+                line-height: 38.19px;
+                text-align: center;
+
+                color: white;
+            }
+            .article-title-motion-design{
+                width: 299px;
+height: 56px;
+top: 2710px;
+left: 163px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: -0.5002105832099915px;
+text-align: center;
+color: white;
+            }
+            .photo{
+                width: 69px;
+height: 69px;
+top: 2543px;
+left: 686px;
+gap: 0px;
+opacity: 0px;
+
+            }
+            .article-title-photo{
+                width: 299px;
+                height: 56px;
+                top: 2690px;
+                left: 571px;
+                gap: 0px;
+                opacity: 0px;
+                
+
+                font-family: Nunito Sans;
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 28px;
+                letter-spacing: -0.5002105832099915px;
+                text-align: center;
+                
+
+color: white;
+            }
+            .contanier-photo{
+                width: 199px;
+                height: 38px;
+                top: 2632px;
+                left: 621px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 28px;
+                font-weight: 600;
+                line-height: 38.19px;
+                letter-spacing: -0.7503158450126648px;
+                text-align: center;
+
+                color: white;
+            }
+            .videography{
+                width: 69px;
+                height: 69px;
+                top: 2543px;
+                left: 1094px;
+                gap: 0px;
+                opacity: 0px;
+
+            }
+            .contanier-videgraphy{
+                width: 163px;
+                height: 38px;
+                top: 2632px;
+                left: 1047px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 28px;
+                font-weight: 600;
+                line-height: 38.19px;
+                text-align: center;
+
+                color: white;
+            }
+            .article-title-videgraphy{
+                width: 299px;
+                height: 56px;
+                top: 2690px;
+                left: 979px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Nunito Sans;
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 28px;
+                letter-spacing: -0.5002105832099915px;
+                text-align: center;
+
+                color: white;
+            }
+            .add-2{
+                width: 42px;
+height: 42px;
+top: 2788.03px;
+left: 110.01px;
+padding: 7px;
+gap: 0px;
+opacity: 0px;
+angle: -25.34 deg;
+
+            }
+            .main-title-10{
+                width: 685px;
+height: 79px;
+margin-top: 2945px;
+margin-left: 120px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito Sans;
+font-size: 58px;
+font-weight: 800;
+line-height: 79.11px;
+text-align: left;
+
+color: white;
+&:hover{
+    color: #47089b;
+}
+            }
+            .cercle{
+                width: 62px;
+height: 72.94px;
+top: 3003.5px;
+left: 1190px;
+gap: 0px;
+opacity: 0px;
+angle: 27.37 deg;
+
+            }
+            .istg{
+                width: 384px;
+height: 301px;
+top: 3094px;
+left: 120px;
+gap: 0px;
+opacity: 0px;
+
+            }
+            .fkoe{
+                width: 384px;
+height: 301px;
+top: 3152px;
+left: 528px;
+gap: 0px;
+opacity: 0px;
+
+            }
+            .koroqe{
+                width: 384px;
+height: 301px;
+top: 3210px;
+left: 936px;
+gap: 0px;
+opacity: 0px;
+
+            }
+            .jeoqop{
+                width: 95px;
+height: 28px;
+top: 3569px;
+left: 74px;
+gap: 0px;
+border: 4px 0px 0px 0px;
+opacity: 0px;
+
+            }
+            .main-title-20{
+                width: 826px;
+height: 132px;
+top: 3924px;
+left: 120px;
+gap: 0px;
+opacity: 0px;
+font-family: Graphik;
+font-size: 60px;
+font-weight: 700;
+line-height: 66px;
+text-align: left;
+color: white;
+            }
+           input[type=button]{
+                width: 201px;
+                height: 60px;
+                top: 4240px;
+                left: 1119px;
+                gap: 0px;
+                border-radius: 4px 0px 0px 0px;
+                opacity: 0px;
+                position: absolute;
+                background: #5454D4;
+                font-family: Nunito Sans;
+                font-size: 21px;
+                font-weight: 700;
+                line-height: 28.64px;
+                text-align: center;
+                cursor: pointer;
+                &:hover{
+                    color: #481c8f;
+                    opacity: 0.8;
+                }
+            }
+            .logo-footer{
+                width: 132px;
+height: 40px;
+top: 4293px;
+left: 120px;
+gap: 0px;
+opacity: 0px;
+            }
+            .footer-title{
+                width: 285px;
+height: 38px;
+top: 4294px;
+left: 1035px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: -0.5002105832099915px;
+text-align: right;
+
+position: absolute;
+color: white;
+            }
+            .supp{
+                position: absolute;
+                width: 66px;
+height: 25px;
+top: 4300px;
+left: 504px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.55px;
+text-align: center;
+color: white;
+            }
+            .PP{
+                position: absolute;
+                width: 111px;
+height: 25px;
+top: 4300px;
+left: 610px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.55px;
+text-align: center;
+color: white;
+            }
+            .TaC{
+                width: 175px;
+                position: absolute;
+height: 25px;
+top: 4300px;
+left: 761px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.55px;
+text-align: center;
+color: white;
+            }
